@@ -2,7 +2,7 @@
     "name": "delphi-themes",
     "displayName": "Delphi Themes",
     "description": "Delphi Themes for Visual Studio Code",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "alefragnani",
     "galleryBanner": {
         "color": "#476e83",
