@@ -1,0 +1,40 @@
+{
+    "name": "delphi-themes",
+    "displayName": "Delphi Themes",
+    "description": "Delphi Themes for Visual Studio Code",
+    "version": "0.1.0",
+    "publisher": "alefragnani",
+    "galleryBanner": {
+        "color": "476e83",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "delphi"
+    ],
+    "icon": "images/icon.png",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "homepage": "https://github.com/alefragnani/vscode-delphi-themes/blob/master/README.md",
+        "repository": {
+            "type": "git",
+            "url": "https://github.com/alefragnani/vscode-delphi-themes.git"
+        },
+        "bugs": {
+            "url": "https://github.com/alefragnani/vscode-delphi-themes/issues"
+        },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Delphi",
+                "uiTheme": "vs",
+                "path": "./themes/delphi-default-color-theme.json"
+            }
+        ]
+    }
+}
