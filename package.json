@@ -34,6 +34,11 @@
                 "label": "Delphi",
                 "uiTheme": "vs",
                 "path": "./themes/delphi-default-color-theme.json"
+            },
+            {
+                "label": "Delphi (Classic)",
+                "uiTheme": "vs",
+                "path": "./themes/delphi-classic-color-theme.json"
             }
         ]
     }
