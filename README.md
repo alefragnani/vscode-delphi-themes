@@ -1,13 +1,15 @@
-# README
-## This is the README for your extension "vscode-delphi-themes"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Delphi Themes for Visual Studio Code
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+Make Visual Studio Code appear like Delphi.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+A set of themes inpired by the original Delphi themes, specially crafted for [Pascal Language](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal).
 
-**Enjoy!**
+## Screenshots
+
+# License
+
+[MIT](LICENSE.md) &copy; Alessandro Fragnani
+
+---
+
+[![Paypal Donations](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=EP57F3B6FXKTU&lc=US&item_name=Alessandro%20Fragnani&item_number=vscode%20extensions&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted) a :coffee: if you enjoy using this extension :thumbsup:
