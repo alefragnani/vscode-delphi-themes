@@ -2,7 +2,7 @@
 
 Make Visual Studio Code appear like Delphi.
 
-A set of themes inspired by the original Delphi colors, specially crafted for the [Pascal Language](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal) extension.
+A set of themes inspired by the original Delphi colors, specially crafted for the [Language Pascal](https://marketplace.visualstudio.com/items?itemName=alefragnani.pascal) extension.
 
 ## Screenshots
 
