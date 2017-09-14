@@ -52,7 +52,7 @@
             },
             {
                 "label": "Delphi+ (Classic)",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/delphi-plus-classic-color-theme.json"
             },
             {
