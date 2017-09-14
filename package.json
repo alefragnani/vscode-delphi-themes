@@ -57,7 +57,7 @@
             },
             {
                 "label": "Delphi+ (Twilight)",
-                "uiTheme": "vs",
+                "uiTheme": "vs-dark",
                 "path": "./themes/delphi-plus-twilight-color-theme.json"
             },
             {
