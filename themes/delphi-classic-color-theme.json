@@ -35,7 +35,9 @@
 		"sideBar.foreground": "#000000",
 		"sideBarTitle.foreground": "#000000",
 		"sideBarSectionHeader.background": "#e3e3e3",
-		"editorGutter.modifiedBackground": "#00ff00"
+		"editorGutter.modifiedBackground": "#00ff00",
+        "terminal.foreground": "#C0C0C0",
+        "panelTitle.activeForeground": "#FFFFFF"		
 	},
 	"tokenColors": [
 		{
