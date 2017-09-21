@@ -22,6 +22,20 @@ A set of themes inspired by the original Delphi colors, specially crafted for th
 
 ![Default](images/delphi-themes-ocean.png)
 
+## Plus Themes
+
+### Classic+
+
+![Default](images/delphi-themes-plus-classic.png)
+
+### Twilight+
+
+![Default](images/delphi-themes-plus-twilight.png)
+
+### Ocean+
+
+![Default](images/delphi-themes-plus-ocean.png)
+
 # License
 
 [MIT](LICENSE.md) &copy; Alessandro Fragnani
