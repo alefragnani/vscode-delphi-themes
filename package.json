@@ -49,6 +49,21 @@
                 "label": "Delphi (Ocean)",
                 "uiTheme": "vs",
                 "path": "./themes/delphi-ocean-color-theme.json"
+            },
+            {
+                "label": "Delphi+ (Classic)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/delphi-plus-classic-color-theme.json"
+            },
+            {
+                "label": "Delphi+ (Twilight)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/delphi-plus-twilight-color-theme.json"
+            },
+            {
+                "label": "Delphi+ (Ocean)",
+                "uiTheme": "vs",
+                "path": "./themes/delphi-plus-ocean-color-theme.json"
             }
         ]
     }
