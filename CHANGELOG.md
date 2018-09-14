@@ -1,3 +1,7 @@
+## [1.3.0] - 2018-09-14
+### Added
+- Patreon button
+
 ## [0.2.0 - 1.2.0] - 2017-09-21
 ### Added
 - Plus Themes
