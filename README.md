@@ -1,3 +1,7 @@
+[![](https://vsmarketplacebadge.apphb.com/version-short/alefragnani.delphi-themes.svg)](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes)
+[![](https://vsmarketplacebadge.apphb.com/downloads-short/alefragnani.delphi-themes.svg)](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes)
+[![](https://vsmarketplacebadge.apphb.com/rating-short/alefragnani.delphi-themes.svg)](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes)
+
 <p align="center">
   <br />
   <a title="Learn more about Delphi Themes" href="http://github.com/alefragnani/vscode-delphi-themes"><img src="https://raw.githubusercontent.com/alefragnani/vscode-delphi-themes/master/images/vscode-delphi-themes-logo-readme.png" alt="Delphi Themes Logo" width="70%" /></a>
