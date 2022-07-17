@@ -1,3 +1,7 @@
+## [1.4.1] - 2022-07-18
+### Internal
+- Add GitHub Sponsors support (PR [#9](https://github.com/alefragnani/vscode-delphi-themes/pull/9))
+
 ## [1.4.0] - 2018-12-03
 ### Added
 - New publishing model
