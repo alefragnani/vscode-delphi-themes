@@ -3,8 +3,10 @@
 	"type": "light",
 	"colors": {
 		"foreground": "#000",
+		"activityBar.activeBackground": "#fff",
 		"activityBar.background": "#f0f0f0",
 		"activityBar.foreground": "#000",
+		"activityBar.inactiveForeground": "#000",
 		"activityBarBadge.background": "#007acc",
 		"breadcrumb.background": "#f0f0f0",
 		"editor.background": "#ffffff",
