@@ -34,6 +34,7 @@
 		"sideBarSectionHeader.background": "#f0f0f0",
 		"statusBar.background": "#f0f0f0",
 		"statusBar.border": "#bbb",
+		"statusBar.debuggingBackground": "#f0f0f0",
 		"statusBar.foreground": "#000",
 		"tab.border": "#aaa",
 		"tab.activeBackground": "#fff",
