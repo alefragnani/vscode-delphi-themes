@@ -1,8 +1,12 @@
 ## [1.4.2] - 2023-06-27
 ### Changed
 - Some color tweaks on default color theme (PR [#11](https://github.com/alefragnani/vscode-delphi-themes/pull/11))
+
 ### Fixed
 - Status Bar in default color theme (PR [#13](https://github.com/alefragnani/vscode-delphi-themes/pull/13))
+
+### Internal
+- Update badges in README (issue [#14](https://github.com/alefragnani/vscode-delphi-themes/issues/14))
 
 ## [1.4.1] - 2022-07-18
 ### Internal

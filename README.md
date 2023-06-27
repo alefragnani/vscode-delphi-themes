@@ -1,6 +1,6 @@
-[![](https://vsmarketplacebadge.apphb.com/version-short/alefragnani.delphi-themes.svg)](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes)
-[![](https://vsmarketplacebadge.apphb.com/downloads-short/alefragnani.delphi-themes.svg)](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes)
-[![](https://vsmarketplacebadge.apphb.com/rating-short/alefragnani.delphi-themes.svg)](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes)
+[![](https://vsmarketplacebadges.dev/version-short/alefragnani.delphi-themes.svg)](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes)
+[![](https://vsmarketplacebadges.dev/downloads-short/alefragnani.delphi-themes.svg)](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes)
+[![](https://vsmarketplacebadges.dev/rating-short/alefragnani.delphi-themes.svg)](https://marketplace.visualstudio.com/items?itemName=alefragnani.delphi-themes)
 
 <p align="center">
   <br />
