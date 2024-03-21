@@ -7,8 +7,9 @@
   <a title="Learn more about Delphi Themes" href="http://github.com/alefragnani/vscode-delphi-themes"><img src="https://raw.githubusercontent.com/alefragnani/vscode-delphi-themes/master/images/vscode-delphi-themes-logo-readme.png" alt="Delphi Themes Logo" width="70%" /></a>
 </p>
 
-# What's new in Delphi Themes 1.4
+# What's new in Delphi Themes 1.5
 
+* Adds Stack Frame background color
 * **Plus Themes** included
 
 # Support

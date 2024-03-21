@@ -1,3 +1,7 @@
+## [1.5.0] - 2024-03-20
+### Added
+- Stack Frame background color (issue [#5](https://github.com/alefragnani/vscode-delphi-themes/issues/5))
+
 ## [1.4.2] - 2023-06-27
 ### Changed
 - Some color tweaks on default color theme (PR [#11](https://github.com/alefragnani/vscode-delphi-themes/pull/11))
