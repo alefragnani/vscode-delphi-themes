@@ -59,7 +59,7 @@ themes/                   # Color theme definitions
 
 ### Indentation
 
-- We spaces, not tabs.
+- Use spaces, not tabs.
 - Use 4 spaces for indentation.
 
 ### Code Quality
